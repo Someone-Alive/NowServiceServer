@@ -3,7 +3,7 @@
 
   "disabledFeature" : true,
   "disabledFeatureInfo": {
-    "type": "app",
-    "reason": "testing remote disable"
+    "type": "home",
+    "reason": "testing remote disable on a inside view"
   }
 }
