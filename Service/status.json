@@ -1,7 +1,8 @@
 {
   "allFeaturesAvailable": true,
 
-  "disabledFeature": {
+  "disabledFeature" : false,
+  "disabledFeatureInfo": {
     "type": "nil",
     "reason": "empty string"
   }
