@@ -1,9 +1,9 @@
 {
   "allFeaturesAvailable": true,
 
-  "disabledFeature" : true,
+  "disabledFeature" : false,
   "disabledFeatureInfo": {
-    "type": "app",
-    "reason": "A severe bug was detected."
+    "type": "",
+    "reason": ""
   }
 }
