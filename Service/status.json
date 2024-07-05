@@ -3,6 +3,6 @@
 
   "disabledFeature": {
     "type": "nil",
-    "reason": "no"
+    "reason": "empty string"
   }
 }
