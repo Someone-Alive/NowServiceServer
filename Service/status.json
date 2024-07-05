@@ -1,9 +1,9 @@
 {
   "allFeaturesAvailable": true,
 
-  "disabledFeature" : true,
+  "disabledFeature" : false,
   "disabledFeatureInfo": {
-    "type": "badge",
-    "reason": "A bug was detected severe enough to disrupt disrupt user experiance. We are working on fixing this issue and will release a patch version soon."
+    "type": "",
+    "reason": ""
   }
 }
