@@ -4,6 +4,6 @@
   "disabledFeature" : false,
   "disabledFeatureInfo": {
     "type": "nil",
-    "reason": "empty string"
+    "reason": "nil"
   }
 }
