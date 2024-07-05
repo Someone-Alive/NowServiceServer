@@ -1,9 +1,9 @@
 {
   "allFeaturesAvailable": true,
 
-  "disabledFeature" : false,
+  "disabledFeature" : true,
   "disabledFeatureInfo": {
-    "type": "nil",
-    "reason": "nil"
+    "type": "app",
+    "reason": "testing remote disable"
   }
 }
