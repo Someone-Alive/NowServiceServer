@@ -3,7 +3,7 @@
 
   "disabledFeature" : true,
   "disabledFeatureInfo": {
-    "type": "home",
-    "reason": "testing remote disable on a inside view"
+    "type": "badge",
+    "reason": "A bug was detected severe enough to disrupt disrupt user experiance. We are working on fixing this issue and will release a patch version soon."
   }
 }
