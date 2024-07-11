@@ -1,6 +1,6 @@
 {
-   "type": "",
-   "title": "",
+   "type": "Incident",
+   "title": "This is a test",
    "tags": ["beta", "testing"],
-   "date": ""
+   "date": "Today"
 }
