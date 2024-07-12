@@ -1,7 +1,7 @@
 {
    "type": "Incident",
    "title": "This is a test",
-   "description": "This is a test for the issue noti system for the app. Continue on with normal use."
+   "description": "This is a test for the issue noti system for the app. Continue on with normal use.",
    "tags": ["beta", "testing"],
    "date": "Today"
 }
