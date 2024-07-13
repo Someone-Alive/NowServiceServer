@@ -1,7 +1,7 @@
 {
   "allFeaturesAvailable": false,
 
-  "disabledFeature" : false,
+  "disabledFeature" : true,
   "disabledFeatureInfo": {
     "type": "grades",
     "reason": "Testing purposes"
