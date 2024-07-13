@@ -1,9 +1,9 @@
 {
-  "allFeaturesAvailable": true,
+  "allFeaturesAvailable": false,
 
-  "disabledFeature" : true,
+  "disabledFeature" : false,
   "disabledFeatureInfo": {
-    "type": "app",
+    "type": "grades",
     "reason": "Testing purposes"
   }
 }
