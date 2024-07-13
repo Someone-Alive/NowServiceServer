@@ -1,9 +1,9 @@
 {
-  "allFeaturesAvailable": false,
+  "allFeaturesAvailable": true,
 
-  "disabledFeature" : true,
+  "disabledFeature" : false,
   "disabledFeatureInfo": {
-    "type": "grades",
-    "reason": "Testing purposes"
+    "type": "",
+    "reason": ""
   }
 }
