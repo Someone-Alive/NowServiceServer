@@ -1,7 +1,7 @@
 {
    "type": "Function",
    "title": "Grade Bug",
-   "description": "There is a minor bug where if you have a class with a Progress Check For Learning grade, it will affect the GPA ",
+   "description": "There is a minor bug where if you have a class with a Progress Check For Learning grade, it will affect the GPA. This will be patched in update 4.0.2",
    "tags": ["Minor", "GPA", "Grade"],
    "date": "08/17/2024"
 }
