@@ -2,6 +2,6 @@
    "type": "Function",
    "title": "Grade Bug",
    "description": "There is a minor bug where if you have a class with a Progress Check For Learning grade, it will affect the GPA ",
-   "tags": ["Function", "Minor", "GPA", "Grade"],
+   "tags": ["Minor", "GPA", "Grade"],
    "date": "08/17/2024"
 }
